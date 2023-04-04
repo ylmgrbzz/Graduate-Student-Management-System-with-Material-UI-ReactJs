@@ -1,7 +1,7 @@
-# Graduate-Student-Management-System-with-Material-UI-ReactJs![11](https://user-images.githubusercontent.com/99664429/229897804-1a26f355-be01-4759-bfa8-51bb3914a22d.png)
-![2](https://user-images.githubusercontent.com/99664429/229897809-da203aeb-b930-4753-bea5-0![4](https://user-images.githubusercontent.com/99664429/229897851-eca3b4a9-15f8-4f86-8202-cd44a77dc788.png)
-e8d919ef69e.png)
-![3](https://user-images.githubusercontent.com/99664429/229897815-b86bc8d1-0d72-4f6a-af83-085df71f980f.png)![4](https://user-images.githubusercontent.com/99664429/229897818-d65ee779-cf73-417c-8057-9e3d4f0e4ae2.png)
-![5](https://user-images.githubusercontent.com/99664429/229897823-42ea39cf-5411-4b50-8329-b1720ba1e762.png)
-![6](https://user-images.githubusercontent.com/99664429/229897832-b4f8ea56-63d9-48cd-9335-f98d1f762a10.png)
-
+# Graduate-Student-Management-System-with-Material-UI-ReactJs!
+![11](https://user-images.githubusercontent.com/99664429/229897946-f88b449f-4b2a-4f31-bbec-6408c5451af1.png)
+![2](https://user-images.githubusercontent.com/99664429/229897956-6deea213-ca27-424e-a955-891b51d8ed45.png)
+![3](https://user-images.githubusercontent.com/99664429/229897963-6635984d-4fd9-4f29-8ea1-7a5218b8d7b8.png)
+![4](https://user-images.githubusercontent.com/99664429/229897973-bfb67993-973e-49d4-8bb7-b82ff7609d3d.png)
+![5](https://user-images.githubusercontent.com/99664429/229897982-0a8cc8b1-3de3-41f8-ad21-8a4589a16327.png)
+![6](https://user-images.githubusercontent.com/99664429/229898011-6d960bbd-f3fb-4cb8-bb8f-722542bd1248.png)
